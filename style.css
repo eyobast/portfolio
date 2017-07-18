@@ -1,0 +1,21 @@
+.h1{
+		color: white;
+		text-align: center;
+		padding: 20px;
+		border: solid;
+		background-color: black;
+		font-size: 18px
+	}
+.background{
+    background-color:#efeee7;
+    
+}
+a:link{
+		color:red;
+	}
+
+.p1{
+		padding: 20px;
+		border-radius: 10px;
+		
+	}
